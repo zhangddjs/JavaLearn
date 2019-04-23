@@ -40,3 +40,5 @@
     PropertyConfigurator 对应的是properties的文件，DOMConfigurator 对应的是xml文件。
 
 5、log4j 已经有点老了，可以新增Log4j2 和 SLF4J 的简单讲解
+
+#提交2
