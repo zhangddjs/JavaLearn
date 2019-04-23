@@ -1,0 +1,5 @@
+DEBUG main com.zdd.log4jTest.TestLog4j - 调试信息
+INFO main com.zdd.log4jTest.TestLog4j - 输出信息
+WARN main com.zdd.log4jTest.TestLog4j - 警告信息
+ERROR main com.zdd.log4jTest.TestLog4j - 错误信息
+FATAL main com.zdd.log4jTest.TestLog4j - 致命信息
