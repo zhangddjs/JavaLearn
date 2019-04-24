@@ -26,6 +26,7 @@ public class TestLog4j {
         logger.fatal("致命信息");
         //提交2？
         //提交3//
+        //提交4//
 
     }
 }
