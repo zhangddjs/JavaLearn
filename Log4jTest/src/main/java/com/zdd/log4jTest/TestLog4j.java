@@ -24,6 +24,7 @@ public class TestLog4j {
         logger.warn("警告信息");
         logger.error("错误信息");
         logger.fatal("致命信息");
+        //提交2？
 
     }
 }
